@@ -4,6 +4,7 @@ Terraform scripts to provision the infrastructure to host ArmoniK [solution](htt
 
 The scripts will provision
 
+* Virtual Private Cloud (VPC)
 * IBM Cloud Kubernetes (IKS)
 * MongoDB
 * Cloud Logs
